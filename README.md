@@ -11,22 +11,22 @@ ___
 Fijate en la siguiente imagen:
 
 ![imagen](imagenes/imagen2.jpg)
-___
+
 Los objetos dentro de ella, el carro, la tetera, y los objetos en general, absolutamente todos ellos desde ahora lo llamaremos **Elementos**.
 
  * El automovil es un **Elemento**
  * El dado es un **Elemento**
  * La maleta es un **Elemento**
  * Tu eres un **Elemento**
-
-![](imagenes/imagen4.jpg)
 ___
+![](imagenes/imagen4.jpg)
+
 Pero aqui tenemos varios **elementos**, expecíficamente 4 manzanás. Si a estos elementos los reunimos de alguna forma para diferenciarlos de otros, como por ejemplo, con una linea curva (como en la imagen). A esto lo llamaremos **Conjunto**, en este caso un conjunto de manzanas, ahora, ¡ya sabes que es un conjunto!
 
 > **pre definición**: Un **Conjunto** es una **reunion** de **elementos**
-___
+
 ![imagen](imagenes/imagen.jpg)
-___
+
 Los conjuntos formados en esta imagen son:
 
 * Un conjunto de casas.
