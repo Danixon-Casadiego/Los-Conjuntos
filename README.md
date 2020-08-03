@@ -63,7 +63,7 @@ ___
 
 ![imagen](imagenes/imagen3.jpg)
 
- ¿**Tu crees que es posible encontrar una característica común**?
+ ¿**Tu crees que es posible encontrar una característica común, que solamente la posea dicho conjunto**?
  
 Si contestaste que si, entonces, estas en lo correcto, esa característica sería "ser los tres primeros meses del año" o "el primer tercio de meses del año"
 
