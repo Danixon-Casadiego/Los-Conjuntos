@@ -75,6 +75,6 @@ Observando la respuesta, no existe ningun otro elemento que se pueda asociar a e
 ___
 ## **Definicion:**
 
->>## Un **conjunto** es una **reunión** de **elementos** que tienen una **propiedad caracteristica** 
+>## Un **conjunto** es una **reunión** de **elementos** que tienen una **propiedad caracteristica** 
 
 
