@@ -23,7 +23,7 @@ Los objetos dentro de ella, el carro, la tetera, y los objetos en general, absol
 ___
 ![imagen](imagenes/imagen.jpg)
 ___
-los conjuntos formados en esta imagen son:
+Los conjuntos formados en esta imagen son:
 
 * Un conjunto de casas.
 * Un conjunto de perros.
@@ -32,7 +32,7 @@ los conjuntos formados en esta imagen son:
 ___
 ![](imagenes/imagen4.jpg)
 
-Pero aqui tenemos varios **elementos**, expecíficamente 4 manzanás. si estos elementos los reunimos de alguna forma para diferenciarlo de otros, como por ejemplo con una linea curva (como en la imagen). A esto lo llamaremos **Conjunto**, en este caso un conjunto de manzanas, ¡ahora ya sabes que es un conjunto!
+Pero aqui tenemos varios **elementos**, expecíficamente 4 manzanás. Si a estos elementos los reunimos de alguna forma para diferenciarlo de otros, como por ejemplo, con una linea curva (como en la imagen). A esto lo llamaremos **Conjunto**, en este caso un conjunto de manzanas, ¡ahora ya sabes que es un conjunto!
 
 > **pre definición**: Un **Conjunto** es una **reunion** de **elementos**
 
@@ -45,35 +45,35 @@ ___
 
  ![](imagenes/imagen1.jpg)
 
-¿**comó podemos llamar a este conjunto**?
+¿**Como podemos llamar a este conjunto**?
 
-antes deciamos, un conjunto de perros, un conjunto de ... el nombre del elemento que formaba ese conjunto, ahora tenemos que decir un conjunto formado por una manzana, una pera y un mango, por lo tanto, tendriamos que nombrar todos los elementos del conjunto;  
+Antes deciamos, un conjunto de perros, un conjunto de ... el nombre del elemento que formaba ese conjunto, ahora tenemos que decir un conjunto formado por una manzana, una pera y un mango, por lo tanto, tendriamos que nombrar todos los elementos del conjunto;  
 
-¿**y si el conjunto tiene muchos elementos, digamos que 100**?
+¿**Y si el conjunto tiene muchos elementos, digamos que 100**?
 
- serìa muy difícil, veamos como podemos solucionarlo; busquemos algo que sea comùn a todos los elementos por igual. 
+ Serìa muy difícil, veamos como podemos solucionarlo; busquemos algo que sea comùn a todos los elementos por igual. 
 
 * **Son frutas** 
 * **se pueden comer**
 * **tienen nutrientes**
 
-estos son aspectos comunes que tienen los elementos de ese conjunto, entonces estos aspectos que son comunes a todos los elementos de un conjunto los llamaremos **Caracteristicas comunes del Conjuto**.
+Estos son aspectos comunes que tienen los elementos de ese conjunto, entonces estos aspectos que son comunes a todos los elementos de un conjunto los llamaremos **Caracteristicas comunes del Conjuto**.
 
-ahora observa con atención, las **Características comunes del Conjuto** tambien las puede poseer otros elementos que no esten en el conjunto, por ejemplo:  una guayaba, una banana, una lechosa, etc, todos ellos cumplen esas caracteristicas comunes y no estàn en el conjunto.
+Ahora observa con atención, las **Características comunes del Conjuto** tambien las puede poseer otros elementos que no esten en el conjunto, por ejemplo:  una guayaba, una banana, una lechosa, etc, todos ellos cumplen esas caracteristicas comunes y no estàn en el conjunto.
 
 ___
-## **propiedad caracteristica del conjunto**
+## **Propiedad caracteristica del conjunto**
 ___
 
 ![imagen](imagenes/imagen3.jpg)
 
- ¿**tu crees que es posible encontrar una característica común**?
+ ¿**Tu crees que es posible encontrar una característica común**?
  
 Si contestaste que si estas en lo correcto, y esa característica seria "ser los tres primeros meses del año" o "el primer tercio de meses del año"
 
-observando la respuesta, no existe ningun otro elemento que se pueda asociar a este conjunto, bueno a esto le llamamos **Propiedad Característica del conjunto**
+Observando la respuesta, no existe ningun otro elemento que se pueda asociar a este conjunto, bueno a esto le llamamos **Propiedad Característica del conjunto**
 ___
-## **Definicion**
+## **Definicion:**
 
 >>## Un **conjunto** es una **reunión** de **elementos** que tienen una **propiedad caracteristica** 
 
