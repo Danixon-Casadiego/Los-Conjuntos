@@ -65,9 +65,9 @@ ___
 
  ¿**Tu crees que es posible encontrar una característica común**?
  
-Si contestaste que si estas en lo correcto, y esa característica seria "ser los tres primeros meses del año" o "el primer tercio de meses del año"
+Si contestaste que si, entonces, estas en lo correcto, esa característica sería "ser los tres primeros meses del año" o "el primer tercio de meses del año"
 
-Observando la respuesta, no existe ningun otro elemento que se pueda asociar a este conjunto, bueno a esto le llamamos **Propiedad Característica del conjunto**
+Observando la respuesta, no existe ningún otro elemento que se pueda asociar a este conjunto, bueno a esto lo llamamos **Propiedad Característica del conjunto** y es lo que hace a un conjunto unico.
 ___
 ## **Definicion:**
 
