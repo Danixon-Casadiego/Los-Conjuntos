@@ -56,7 +56,7 @@ Antes deciamos, un conjunto de perros, un conjunto de ... el nombre del elemento
 
 Estos son aspectos comunes que tienen los elementos de ese conjunto, entonces estos aspectos que son comunes a todos los elementos de un conjunto los llamaremos **Caracteristicas comunes del Conjuto**.
 
-Ahora observa con atención, las **Características comunes del Conjuto** tambien las puede poseer otros elementos que no esten en el conjunto, por ejemplo:  una guayaba, una banana, una lechosa, etc, todos ellos cumplen esas caracteristicas comunes y no estàn en el conjunto.
+Ahora observa con atención, las **Características comunes del Conjuto** tambien las pueden poseer otros elementos que no esten en el conjunto, por ejemplo:  una guayaba, una banana, una lechosa, etc, todos ellos cumplen esas caracteristicas comunes y no estàn en el conjunto.
 ___
 ## **Propiedad caracteristica del conjunto**
 ___
@@ -69,7 +69,7 @@ Si contestaste que si, entonces, estas en lo correcto, esa característica serí
 
 Observando la respuesta, no existe ningún otro elemento que se pueda asociar a este conjunto, bueno a esto lo llamamos **Propiedad Característica del conjunto** y es lo que hace a un conjunto unico.
 ___
-## **Definicion:**
+## **Definición:**
 
 > Un **conjunto** es una **reunión** de **elementos** que tienen una **propiedad caracteristica** 
 
