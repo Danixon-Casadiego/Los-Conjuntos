@@ -23,7 +23,7 @@ la forma *Entre llaves* se hace de la siguiente manera :
 ___
 
 ## **Variables**  
-Antes de suguir con el tema de conjuntos hay que conocer que es una variable, ya que nos van servir para generalizar y escribir conceptos en lenguaje matematico (simbolos matematicos), esta "definicion" es de manera intuitiva.
+Antes de seguir con el tema de conjuntos hay que conocer que es una variable, ya que nos van servir para generalizar y escribir conceptos en lenguaje matematico (simbolos matematicos), esta "definicion" es de manera intuitiva.
 
 - **Variable**: Variable es algo que no es estable, que cambia; pero no significa que no pueda ser una constate, para fines practicos la siguiente definicion es la que vamos a utilizar: 
    >"Es la expresión simbólica representativa de un elemento no especificado comprendido en un conjunto".
