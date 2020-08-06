@@ -1,4 +1,4 @@
-<<<<<<< HEAD:1 .Definicion/README.md
+
 # **Conjuntos**
 Los conjuntos son la base de toda la matematica como la conocemos hoy en dìa y para entender que es un conjunto vamos a conocer los siguientes conceptos 
 
@@ -97,7 +97,7 @@ ___
 
 Fijate en la siguiente imagen:
 
-![imagen](imagenes/imagen2.jpg)
+![imagen](/imagenes/imagen2.jpg)
 
 Los objetos dentro de ella, el carro, la tetera, y los objetos en general, absolutamente todos ellos desde ahora lo llamaremos **Elementos**.
 
@@ -112,7 +112,7 @@ Pero aqui tenemos varios **elementos**, expecíficamente 4 manzanás. Si a estos
 
 > **pre definición**: Un **Conjunto** es una **reunion** de **elementos**
 
-![imagen](imagenes/imagen.jpg)
+![imagen](/imagenes/imagen.jpg)
 
 Los conjuntos formados en esta imagen son:
 
@@ -127,7 +127,7 @@ ___
 
  Observa que hasta ahora los conjuntos que he formado tienén un solo elemento repetido, casas, perros, etc. Pero ahora vamos a formar un conjunto con elementos distintos-
 
- ![](imagenes/imagen1.jpg)
+ ![](/imagenes/imagen1.jpg)
 
 ¿**Como podemos llamar a este conjunto**?
 
@@ -148,7 +148,7 @@ ___
 ## **Propiedad caracteristica del conjunto**
 ___
 
-![imagen](imagenes/imagen3.jpg)
+![imagen](/imagenes/imagen3.jpg)
 
  ¿**Tu crees que es posible encontrar una característica común, que solamente la posea dicho conjunto**?
  
@@ -161,4 +161,3 @@ ___
 > Un **conjunto** es una **reunión** de **elementos** que tienen una **propiedad caracteristica** 
 
 
->>>>>>> 4f196dc168a3519e277dac23f6bc86d71e547117:README.md
