@@ -47,7 +47,7 @@ la representacion por **Compresion** (vista en esa imagen), es una idea de lo qu
 
 Fijate, como una variable no es un valor fijo, puede ser cualquier elemento y la condición (propiedad caracteristica) se establece, para que no sea cualquier elemento y que solamente sea los que cumplán dicha condición. por ejemplo:
 
-**L = { x / x = "las vocales" }
+**L = { x / x = "las vocales" }**
 
 |x = a|x = e|x = i|x = o|x = u|
 |-----|-----|-----|-----|-----|
