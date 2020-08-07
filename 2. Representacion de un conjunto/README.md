@@ -28,7 +28,7 @@ Antes de seguir con el tema de conjuntos hay que conocer que es una variable, ya
 - **Variable**: Variable es algo que no es estable, que cambia; pero no significa que no pueda ser una constate, para fines practicos la siguiente definicion es la que vamos a utilizar: 
    >"Es la expresión simbólica representativa de un elemento no especificado comprendido en un conjunto".
 
-- las variables se represetan con letras en minuscula.
+- las variables se represetan con letras en minúscula, generalmente la x.
 ___
 ---
 ## **Extensión y Compresión** 
