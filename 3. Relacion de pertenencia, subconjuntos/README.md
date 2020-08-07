@@ -75,5 +75,5 @@ K = { 2 + 3 , 3 + 4}
 |M ⊄ N| M ⊂ L | M = K|
 |K ⊄ N| K ⊂ L | K = M|
 
-Fijate que [ 2 + 3 = 5 ] y [ 3 + 4 = 7 ], es decir M y K poseen los mismos elementos, N ⊄ L es porque el 12 ∉ L (si no entiendes porque es no es un subconjunto, vuelve a leer **Importante**).
+Fijate que [ 2 + 3 = 5 ] y [ 3 + 4 = 7 ], es decir M y K poseen los mismos elementos, N ⊄ L es porque el 12 ∉ L (si no entiendes porque no es un subconjunto, vuelve a leer **Importante**).
 
