@@ -61,12 +61,12 @@ ___
 
 L = { 1, 5, 2, 11, 3, 7, 8, 9, 32, 4, 0, 5}, N = {8, 9, 12}, M = { 5, 7 }, K = { 2 + 3 , 3 + 4}
 
-| |**Respuesta**|     |
+| |**Respuesta**| 
 |-|:-:|-|
 |N ⊄ L| N ⊄ M | N ⊄ K|
 |L ⊄ N| L ⊄ M | L ⊄ K|
 |M ⊄ N| M ⊂ L | M = K|
 |K ⊄ N| K ⊂ L | K = M|
 
-fijate que [ 2 + 3 = 5 ] y [ 3 + 4 = 7 ], es decir M y K poseen los mismo elementos.
+fijate que [ 2 + 3 = 5 ] y [ 3 + 4 = 7 ], es decir M y K poseen los mismo elementosn, N ⊄ L es porque el 12 ∉ L (si no entiendes porque es n oes un subconjunto, vuelve a leer **Importante**).
 
