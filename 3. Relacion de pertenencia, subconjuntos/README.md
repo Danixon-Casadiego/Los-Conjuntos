@@ -1,17 +1,17 @@
-## **Relación de Pertenecia de un conjunto.**
+## **Relación de Pertenencia de un conjunto.**
 ___
-Necesitamos establecer pertenencias, ya que como vimos, hay elementos que comparten características comunes y da la posibilidad de que un elemento o varios puedan estar en dos o más conjuntos a la vez. 
+Necesitamos establecer pertenencias, ya que como vimos, hay elementos que comparten características comunes y dá la posibilidad de que un elemento o varios puedan estar en dos o más conjuntos a la vez. 
 
-La relación de pertenencia nos ayuda a saber si un elemento pertenece a un conjunto, de manera simbólica, el símbolo a utilzar es: [ "**∈**" ] y se lee "*pertenece*", en caso contrario, es decir, si el elemento *no pertence* al simbolo se le tacha: [ "**∉**" ], como en la siguiente imagen: 
+La relación de pertenencia nos ayuda a saber si un elemento pertenece a un conjunto, de manera simbólica, el símbolo a utilzar es: [ "**∈**" ] y se lee "*pertenece*", en caso contrario, es decír, sí el elemento *no pertence* al simbolo se le tacha: [ "**∉**" ], como en la siguiente imagén: 
 
  ![](/imagenes/imagen8.jpg)
 
-> Nota: Por eso en libros de calculo se suelen ver cosas asi [ a ∈ R ] que se lee: "*a  pertenece a los Reales*" ó "*el elemento a pertenece al conjuntos de los Reales*", el conjunto de los Reales se explicará más adelante.
+> Nota: Por eso en libros de cálculo se suelen vér cosas así [ a ∈ R ] que se lee: "*a  pertenece a los Reales*" o "*el elemento a pertenece al conjuntos de los Reales*", el conjunto de los Reales se explicará más adelante.
 ___
 
 ## **Igualdad entre conjuntos**
 ___
-Hare un repositorio que va hacer el siguiente al de los conjuntos, que tratare este tema **la igualdad en matematicas**, muy importante que lo veas, después de terminar el tema de conjuntos, pero antes, filosofemos un poco. 
+Haré un repositorio que vá hacer el que venga después de los conjuntos, que trataré este tema **la igualdad en matematicas**, muy importante que lo veas, después de terminar el tema de conjuntos, pero antes, filosofemos un poco. 
 
 ¿Para qué utilizamos la palabra **igualdad**?
 
