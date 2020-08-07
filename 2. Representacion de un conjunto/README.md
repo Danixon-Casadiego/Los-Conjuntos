@@ -50,6 +50,7 @@ Fijate, como una variable no es un valor fijo, puede ser cualquier elemento y la
 **L = { x / x = "las vocales" }
 
 |x = a|x = e|x = i|x = o|x = u|
+!-----!-----!-----!-----!-----!
 
 La x puede respresentar todos los elemetos a la vez. 
 
