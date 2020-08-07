@@ -28,6 +28,7 @@ Al ver esa definicion nos percatamos que lo unico que podemos comparar son los e
 Al vér que ambos conjuntos poseén los mismos elementos o en su defecto la misma propiedad característica, por ejemplo:
 
 **A** = { a, u, o, e, i}
+
 **B** = { x / x = "las vocales"}
 
 **A** y **B** son iguales y se simboliza **A = B.
@@ -67,7 +68,7 @@ M = { 5, 7 }
 
 K = { 2 + 3 , 3 + 4}
 
-| **Respuesta** 
+| |**Respuesta**| | 
 |-|:-:|-|
 |N ⊄ L| N ⊄ M | N ⊄ K|
 |L ⊄ N| L ⊄ M | L ⊄ K|
