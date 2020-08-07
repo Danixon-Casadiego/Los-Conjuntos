@@ -2,7 +2,7 @@
 ___
 Necesitamos establecer pertenencias, ya que como vimos, hay elementos que comparten características comunes y da la posibilidad de que un elemento o varios puedan estar en dos o más conjuntos a la vez. 
 
-La relación de pertenencia nos ayuda a saber si un elemento pertenece a un conjunto, de manera simbólica, el símbolo a utilzar es: [ "**∈**" ] y se lee "*pertenece*", en caso contrario, es decír, sí el elemento *no pertence* al simbolo se le tacha: [ "**∉**" ], como en la siguiente imagen: 
+La relación de pertenencia nos ayuda a saber si un elemento pertenece a un conjunto, de manera simbólica, el símbolo a utilzar es: [ "**∈**" ] y se lee "*pertenece*", en caso contrario, es decír, sí el elemento *no pertenece* al simbolo se le tacha: [ "**∉**" ], como en la siguiente imagen: 
 
  ![](/imagenes/imagen8.jpg)
 
