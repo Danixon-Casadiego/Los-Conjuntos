@@ -1,6 +1,6 @@
 
 # **Conjuntos**
-Los conjuntos son la base de toda la matemática como la conocemos hoy en día y para entender que es un conjunto vamos a conocer los siguientes conceptos 
+Los conjuntos son la base de toda la matemática como la conocemos hoy en día y para entender que es un conjunto vamos a conocer los siguientes conceptos:
 
 * **Elementos**
 * **características comunes del conjuto**
