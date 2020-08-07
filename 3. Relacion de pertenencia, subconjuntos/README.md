@@ -58,7 +58,7 @@ ___
 ## **Practica de Subcojuntos**
 ___
 
-1. dados los siguientes conjuntos, decir si es ó no un subconjunto del otro o si son iguales.
+1. dados los siguientes conjuntos, decír si es, o no un subconjunto del otro, o si son iguales.
 
 L = { 1, 5, 2, 11, 3, 7, 8, 9, 32, 4, 0, 5},
 
@@ -75,5 +75,5 @@ K = { 2 + 3 , 3 + 4}
 |M ⊄ N| M ⊂ L | M = K|
 |K ⊄ N| K ⊂ L | K = M|
 
-Fijate que [ 2 + 3 = 5 ] y [ 3 + 4 = 7 ], es decir M y K poseen los mismos elementos, N ⊄ L es porque el 12 ∉ L (si no entiendes porque no es un subconjunto, vuelve a leer **Importante**).
+Fijate que [ 2 + 3 = 5 ] y [ 3 + 4 = 7 ], es decír, M y K poseen los mismos elementos, N ⊄ L es porque el 12 ∉ L (si no entiendes porque no es un subconjunto, vuelve a leer **Importante**).
 
