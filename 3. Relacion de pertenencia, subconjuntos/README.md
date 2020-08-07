@@ -11,7 +11,7 @@ ___
 
 ## **Igualdad entre conjuntos**
 ___
-yo hare un repositorio que va hacer el siguiente al de los conjuntos, que tratare este tema **la igualdad en matematicas**, muy importante que lo veas, después de terminar el tema de conjuntos, pero antes, filosofemos un poco. 
+Hare un repositorio que va hacer el siguiente al de los conjuntos, que tratare este tema **la igualdad en matematicas**, muy importante que lo veas, después de terminar el tema de conjuntos, pero antes, filosofemos un poco. 
 
 ¿Para qué utilizamos la palabra **igualdad**?
 
@@ -19,13 +19,13 @@ Bueno, siempre la usamos para comparar dos o más cosas, en este caso no cambia 
 
 ¿Que puedo comparar con los conjuntos?
 
-> definicion: un conjunto es una agrupacion de elementos que tienen una propiedad caracteristica.
+> Definicion: un conjunto es una agrupacion de elementos que tienen una propiedad caracteristica.
 
-al ver esa definicion nos percatamos que lo unico que podemos comparar son los elementos dentro de ese conjunto y son estos los que con su propiedad caracteristica definen el conjunto, entonces,
+Al ver esa definicion nos percatamos que lo unico que podemos comparar son los elementos dentro de ese conjunto y son estos los que con su propiedad caracteristica definen el conjunto, entonces,
 
 ¿Cuando puedo yo decir que un conjunto es igual a otro?
 
-al ver que ambos conjuntos poseen los mismo elementos o en su defecto la misma propiedad caracteristica, por ejemplo:
+Al ver que ambos conjuntos poseen los mismo elementos o en su defecto la misma propiedad caracteristica, por ejemplo:
 
 **A** = { a, u, o, e, i}
 **B** = { x / x = "las vocales"}
@@ -44,9 +44,9 @@ Como vemos tenemos un **conjunto** **A** donde su propiedad característica es s
 
 - **Importante**: **TODOS** los elementos del subconjunto **B** deben de estar en el conjunto **A**, si no **B ⊄ A**, se lee **B No es un subconjunto de A.
 
-> NOTA: Te abras dado cuenta que el tachar el simbolobo significa la negacion del mismo, es decir, lo contrario.
+> NOTA: Te abras dado cuenta que el tachar el simbolo significa la negacion del mismo, es decir, lo contrario.
 
-existe una clasificacion de subconjuntos, que habla de dos tipos:
+Existe una clasificacion de subconjuntos, que habla de dos tipos:
  - los propios: son los cuales he definido 
  - los impropios: son los que el subconjunto es igual al conjunto donde esta incluido
  
@@ -59,7 +59,13 @@ ___
 
 1. dados los siguientes conjuntos, decir si es ó no un subconjunto del otro o si son iguales.
 
-L = { 1, 5, 2, 11, 3, 7, 8, 9, 32, 4, 0, 5}, N = {8, 9, 12}, M = { 5, 7 }, K = { 2 + 3 , 3 + 4}
+L = { 1, 5, 2, 11, 3, 7, 8, 9, 32, 4, 0, 5},
+
+N = {8, 9, 12}
+
+M = { 5, 7 }
+
+K = { 2 + 3 , 3 + 4}
 
 | |**Respuesta**| 
 |-|:-:|-|
