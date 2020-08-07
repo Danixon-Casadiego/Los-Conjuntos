@@ -7,9 +7,10 @@ La relacion de pertenencia nos ayuda a saber si un elemento pertenece a un conju
  ![](/imagenes/imagen8.jpg)
 
 > Nota: Por eso en libros de calculo se suelen ver cosas asi [ a ∈ R ] que se lee: "*a  pertenece a los Reales*" ó "*el elemento a pertenece al conjuntos de los Reales*", el conjunto de los Reales se explicará más adelante.
+___
 
 ## **Igualdad entre conjuntos**
-
+___
 yo hare un repositorio que va hacer el siguiente al de los conjuntos, que tratare este tema **la igualdad en matematicas**, muy importante que lo veas, después de terminar el tema de conjuntos, pero antes, filosofemos un poco. 
 
 ¿Para qué utilizamos la palabra **igualdad**?
@@ -61,11 +62,11 @@ ___
 L = { 1, 5, 2, 11, 3, 7, 8, 9, 32, 4, 0, 5}, N = {8, 9, 12}, M = { 5, 7 }, K = { 2 + 3 , 3 + 4}
 
 | |**Respuesta**|     |
-|-|-|-|
-|N ⊄ L|- N ⊄ M -| N ⊄ K|
-|L ⊄ N|- L ⊄ M -| L ⊄ K|
-|M ⊄ N|- M ⊂ L -| M = K|
-|K ⊄ N|- K ⊂ L -| K = M|
+|-|:-:|-|
+|N ⊄ L| N ⊄ M | N ⊄ K|
+|L ⊄ N| L ⊄ M | L ⊄ K|
+|M ⊄ N| M ⊂ L | M = K|
+|K ⊄ N| K ⊂ L | K = M|
 
 fijate que [ 2 + 3 = 5 ] y [ 3 + 4 = 7 ], es decir M y K poseen los mismo elementos.
 
