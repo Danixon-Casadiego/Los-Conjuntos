@@ -1,8 +1,8 @@
 ## **Relación de Pertenecia de un conjunto.**
 ___
-Necesitamos establecer pertenencias e igualdades, ya que como vimos, hay elementos que comparten caracteristicas comunes y da la posiblidad de que un elemento o varios puedan estar en dos o màs conjuntos a la vez. 
+Necesitamos establecer pertenencias, ya que como vimos, hay elementos que comparten características comunes y da la posibilidad de que un elemento o varios puedan estar en dos o más conjuntos a la vez. 
 
-La relacion de pertenencia nos ayuda a saber si un elemento pertenece a un conjunto, de manera simbolica, el simbolo a utilizar es: [ "**∈**" ] y se lee *pertenece*, en caso contrario, es decir, si el elemento *no pertence* al simbolo se le tacha: [ "**∉**" ], como en la siguiente imagen: 
+La relación de pertenencia nos ayuda a saber si un elemento pertenece a un conjunto, de manera simbólica, el símbolo a utilzar es: [ "**∈**" ] y se lee "*pertenece*", en caso contrario, es decir, si el elemento *no pertence* al simbolo se le tacha: [ "**∉**" ], como en la siguiente imagen: 
 
  ![](/imagenes/imagen8.jpg)
 
@@ -15,7 +15,7 @@ Hare un repositorio que va hacer el siguiente al de los conjuntos, que tratare e
 
 ¿Para qué utilizamos la palabra **igualdad**?
 
-Bueno, siempre la usamos para comparar dos o más cosas, en este caso no cambia su significado en matematicas, pero hay que entender que la palabra igualdad es muy ambigüa, es decír, para hablar de igualdad tengo que preguntarme ¿Que estoy comparando?, por ejemplo, si yo digo que soy igual a ti, tu te preguntaras ¿igual en que aspecto? y tendria que decirte si es la altura, el color piel, etc. 
+Bueno, siempre la usamos para comparar dos o más cosas, en este caso no cambia su significado en matematicas, pero hay que entender que la palabra igualdad es muy ambigüa, es decír, para hablar de igualdad tengo que preguntarme ¿Que estoy comparando?, por ejemplo, si yo digo que soy igual a ti, tu te preguntaras ¿igual en que aspecto? y tendria que decirte si es la altura, el color de piel, etc. 
 
 ¿Que puedo comparar con los conjuntos?
 
@@ -23,9 +23,9 @@ Bueno, siempre la usamos para comparar dos o más cosas, en este caso no cambia 
 
 Al ver esa definicion nos percatamos que lo unico que podemos comparar son los elementos dentro de ese conjunto y son estos los que con su propiedad caracteristica definen el conjunto, entonces,
 
-¿Cuando puedo yo decir que un conjunto es igual a otro?
+¿Cuándo puedo yo decír que un conjunto es igual a otro?
 
-Al ver que ambos conjuntos poseen los mismo elementos o en su defecto la misma propiedad caracteristica, por ejemplo:
+Al vér que ambos conjuntos poseén los mismos elementos o en su defecto la misma propiedad característica, por ejemplo:
 
 **A** = { a, u, o, e, i}
 **B** = { x / x = "las vocales"}
@@ -67,12 +67,12 @@ M = { 5, 7 }
 
 K = { 2 + 3 , 3 + 4}
 
-| |**Respuesta**| 
+| **Respuesta** 
 |-|:-:|-|
 |N ⊄ L| N ⊄ M | N ⊄ K|
 |L ⊄ N| L ⊄ M | L ⊄ K|
 |M ⊄ N| M ⊂ L | M = K|
 |K ⊄ N| K ⊂ L | K = M|
 
-fijate que [ 2 + 3 = 5 ] y [ 3 + 4 = 7 ], es decir M y K poseen los mismo elementosn, N ⊄ L es porque el 12 ∉ L (si no entiendes porque es n oes un subconjunto, vuelve a leer **Importante**).
+Fijate que [ 2 + 3 = 5 ] y [ 3 + 4 = 7 ], es decir M y K poseen los mismos elementos, N ⊄ L es porque el 12 ∉ L (si no entiendes porque es no es un subconjunto, vuelve a leer **Importante**).
 
