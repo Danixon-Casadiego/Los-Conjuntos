@@ -4,7 +4,7 @@ Hasta ahora hemos creado varios conjuntos, pero hay que expresarlos de alguna fo
 
 ![imagen](/imagenes/imagen5.jpg)
 
-Si vén ese conjunto está definido, posee elementos y tiene una propiedad característica, que sus elementos son las letras vocales. Ahora se le llama **Conjunto A** y se denota con dicha letra en este caso **A**.
+Si vén ese conjunto está definido, posee elementos y tiene una propiedad característica, que sus elementos son las letras vocales. Ahora se le llama **Conjunto A** y se denota con dicha letra, en este caso **A**.
 
 >Nota: Se decidió así porque facilita la escritura cuando uno esta operando con ellos.
 ---
@@ -23,27 +23,30 @@ la forma *Entre llaves* se hace de la siguiente manera :
 ___
 
 ## **Variables**  
-Antes de seguir con el tema de conjuntos hay que conocer que es una variable, ya que nos van servir para generalizar y escribir conceptos en lenguaje matematico (simbolos matematicos), esta "definicion" es de manera intuitiva.
+Antes de seguir con el tema de conjuntos hay que conocer que es una variable, ya que nos van servir para generalizar y escribir conceptos en lenguaje matematico (simbolos matematicos).
 
-- **Variable**: Variable es algo que no es estable, que cambia; pero no significa que no pueda ser una constate, para fines practicos la siguiente definicion es la que vamos a utilizar: 
-   >"Es la expresión simbólica representativa de un elemento no especificado comprendido en un conjunto".
+De manera intuitiva, la Variable es algo que no es estable, que cambia. Para fines practicos la siguiente definicion es la que vamos a utilizar: 
+  
+  >"Es la expresión simbólica representativa de un elemento no especificado comprendido en un conjunto".
 
-- las variables se represetan con letras en minúscula, generalmente la x.
+las variables se represetan con letras en minúscula, generalmente la x.
+
+>Nota: no te preocupes por no entender la definición, en el siguiente apartado se hara más entendible esta definición. 
 ___
----
+
 ## **Extensión y Compresión** 
 ---
-Cuando representamos un conjunto y se expresan todos los elementos en él, decimos que ese conjunto está **definido** por **Extensión** ; tambien podemos definir un conjunto por su propiedad característica, en este caso de dice que el conjunto esta **definido** por **Compresión**
+Cuando representamos un conjunto y se expresan todos los elementos en él, decimos que ese conjunto está **definido** por **Extensión** ; también podemos definir un conjunto por su propiedad característica, en este caso de dice que el conjunto esta **definido** por **Compresión**
 
 ![](/imagenes/imagen7.jpg)
+
 > Nota: La más usada es la definición por comprensión, esto se debe a que generalmente los conjuntos con los que trabajamos tiene un gran cantidad de elementos, inclusive con elementos infinitos. 
 
 la representacion por **Compresion** (vista en esa imagen), es una idea de lo que se desea plasmar, pero no es del todo precisa, para poder dar una imagen de que es lo que realmente significa, se utilizan las variables, para poder generalizar y especificar cada elemento dentro de ese conjunto, como en la siguiente imagen.
 
 ![](/imagenes/imagen7.1.jpg)
 
-
-> Nota: esta forma la vamos a emplear cuando lleguemos a los conjuntos numericos, mientras tanto para poder seguir con una didactica mas intuitiva voy a seguir utilizando el *diagrama de Venn*
+> Nota : esta forma la vamos a emplear cuando lleguemos a los conjuntos numericos, mientras tanto para poder seguir con una didactica mas intuitiva voy a seguir utilizando el *diagrama de Venn*
 
 Fijate, como una variable no es un valor fijo, puede ser cualquier elemento y la condición (propiedad caracteristica) se establece, para que no sea cualquier elemento y que solamente sea los que cumplán dicha condición. por ejemplo:
 
@@ -54,6 +57,7 @@ Fijate, como una variable no es un valor fijo, puede ser cualquier elemento y la
 
 La x puede respresentar todos los elemetos a la vez y se lee: "el conjunto L de los elementos x tal que x sea igual a las vocales".
 
-> consejo: lee mientras ves los símbolos, asi asocias cada palabra con el simbolo.
+> Nota: la definición de variable: "Es la expresión simbólica" la [ x ] "representativa de un elemento no especificado" [ a, e, i, o, u ] "comprendido en un conjunto" [ **L = {  }** ], es decir, que esta dentro de un conjunto.
+
 
 ___
