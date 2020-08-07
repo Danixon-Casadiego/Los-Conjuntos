@@ -1,14 +1,14 @@
 ## **Representación de un conjunto**
 ___
-Hasta ahora hemos creado varios conjuntos, pero hay que expresarlos de alguna forma, se decídió que los conjuntos se expresaran con letras Mayusculas, asi como en la siguiente imagen 
+Hasta ahora hemos creado varios conjuntos, pero hay que expresarlos de alguna forma, se decidió que los conjuntos se expresarán con letras Mayúsculas, asi como en la siguiente imagen: 
 
 ![imagen](/imagenes/imagen5.jpg)
 
-Si ven ese conjunto está definido, posee elementos y tiene una propiedad caracteristica, que sus elementos son las letras vocales. Ahora se le llama **Conjunto A** y se denota con dicha letra en este caso **A**.
+Si vén ese conjunto está definido, posee elementos y tiene una propiedad característica, que sus elementos son las letras vocales. Ahora se le llama **Conjunto A** y se denota con dicha letra en este caso **A**.
 
->"Se decidió así porque facilita la escritura cuando uno esta operando con ellos".
+>Nota: Se decidió así porque facilita la escritura cuando uno esta operando con ellos.
 ---
-Ya hemos representado a varios conjunto de forma grafica, agrupando los elemento y enserrandolos en una linea curva, esa forma de representar los conjuntos se llama *Diagrama de Venn*, pero no es la unica forma, hay otra manera y es la más usada, la forma *Entre llaves*.
+Ya hemos representado a varios conjuntos de forma gráfica, agrupando los elementos y encerrandolos en una linea curva, esa forma de representar los conjuntos se llama *Diagrama de Venn*, pero no es la única forma, hay otra manera y es la más usada, se le llama *Entre llaves*.
 
 la forma *Entre llaves* se hace de la siguiente manera :
 
