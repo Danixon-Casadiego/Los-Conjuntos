@@ -52,6 +52,8 @@ Fijate, como una variable no es un valor fijo, puede ser cualquier elemento y la
 |x = a|x = e|x = i|x = o|x = u|
 |-----|-----|-----|-----|-----|
 
-La x puede respresentar todos los elemetos a la vez. 
+La x puede respresentar todos los elemetos a la vez y se lee: "el conjunto L de los elementos x tal que x sea igual a las vocales".
+
+> consejo: lee mientras ves los símbolos, asi asocias cada palabra con el simbolo.
 
 ___
