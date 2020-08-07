@@ -45,13 +45,15 @@ la representacion por **Compresion** (vista en esa imagen), es una idea de lo qu
 
 > Nota: esta forma la vamos a emplear cuando lleguemos a los conjuntos numericos, mientras tanto para poder seguir con una didactica mas intuitiva voy a seguir utilizando el *diagrama de Venn*
 
-Fijate que como una variable no es un valor fijo puede ser cualquier elemento y la condicion dice la propiedad caracteristica, para que no sea cualquier elemento y que solamente sea los que cumplen dicha condición. ejemplo: "x = las vocales", es decir:
+Fijate, como una variable no es un valor fijo, puede ser cualquier elemento y la condición (propiedad caracteristica) se establece, para que no sea cualquier elemento y que solamente sea los que cumplán dicha condición. por ejemplo:
 
-- x = a
-- x = e
-- x = i
-- x = o
-- x = u
+**L = { x / x = "las vocales" }
+
+[ ] x = a
+[ ] x = e
+[ ] x = i
+[ ] x = o
+[ ] x = u
 
 La x puede respresentar todos los elemetos a la vez. 
 
