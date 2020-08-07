@@ -19,7 +19,7 @@ Bueno, siempre la usamos para comparar dos o más cosas, en este caso no cambia 
 
 ¿Qué puedo comparar con los conjuntos?
 
-> Definicion: un conjunto es una reunión de elementos que tienen una propiedad caracteristica.
+> Definición: un conjunto es una reunión de elementos que tienen una propiedad caracteristica.
 
 Al ver esa definición, nos percatamos que lo unico que podemos comparar son los elementos dentro de ese conjunto y son estos los que con su propiedad característica definen el conjunto, entonces.
 
