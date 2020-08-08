@@ -54,7 +54,7 @@ Existe una clasificación de subconjuntos, que habla de dos tipos:
  
 ![](/imagenes/imagen10.jpg)
 
-> NOTA: Para hacer uan diferencia entre uno y el otro, se emplea este simbolo para los propios [ ⊂ ] y este para los impropios [ ⊆ ], aunque este ultimo se puede utilizar para ambos, pero en la gran mayoria de los casos van a ser propios.
+> NOTA: Para hacer una diferencia entre uno y el otro, se emplea este simbolo para los propios [ ⊂ ] y este para los impropios [ ⊆ ], aunque este ultimo se puede utilizar para ambos, pero en la gran mayoria de los casos van a ser propios.
 ___
 ## **Practica de Subcojuntos**
 ___
