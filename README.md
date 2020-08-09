@@ -1,3 +1,3 @@
 # Los-Conjuntos
 
-[Definición](/1+.Definicion)
+[Definición](Los-Conjuntos/1 .Definicion)
