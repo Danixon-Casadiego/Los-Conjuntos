@@ -9,3 +9,5 @@
 - [Relación](/Documentos/3.Relación/README.md)
 
 - [Conjuntos equivalentes](/Documentos/4.Conjuntos-equivalentes/README.md)
+
+- [Ampliación de la teoria de conjunto](/Documentos/5.Ampliación/README.md)
