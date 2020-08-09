@@ -61,3 +61,6 @@ La x puede respresentar todos los elemetos a la vez y se lee: "el conjunto L de 
 
 
 ___
+| [<------Volver al anterior apartado ](/Documentos/1.Definición/README.md)| [volver al indice](/README.md)|[Seguir con el siguiente apartado------>](/Documentos/3.Relación/README.md)|
+|:-|:-:|-:|
+

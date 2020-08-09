@@ -74,3 +74,7 @@ ___
 
 > Un **conjunto** es una **reunión** de **elementos** que tienen una **propiedad caracteristica** 
 ___
+
+| [<------Volver al indice ](/README.md)|--------------------------------|[Seguir con el siguiente apartado------>](/Documentos/2.Representación/README.md)|
+|:-|:-:|-:|
+

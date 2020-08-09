@@ -43,7 +43,7 @@ Un subcojunto es un conjunto que "esta includio" en otro conjunto, por ejemplo:
 
 Como vemos, tenemos un **conjunto** **A** donde su propiedad característica es ser los números del 1 al 9, y el **conjunto** **B** ser los números del 1 al 3, como se aprecia, los elemenos de **B** están incluidos en **A**, pero los de **A** no estàn incluidos en **B**, fijate que 1 ∈ **A** (uno pertene a A) pero 7 **∉** **B**(7 no pertenece a B) . Entonces decimos que **B** es un subconjunto de **A** ; y se simbóliza asi: [ **B ⊂ A** ]. 
 
-- **Importante**: **TODOS** los elementos del subconjunto **B** deben de estar en el conjunto **A**, si no **B ⊄ A**, se lee **B No es un subconjunto de A.
+- **IMPORTANTE**: **TODOS** los elementos del subconjunto **B** deben de estar en el conjunto **A**, si no **B ⊄ A**, se lee **B No es un subconjunto de A.
 
 > NOTA: Té abras dado cuenta que al tachar el simbolo significa la negacion del mismo, es decír, lo contrario.
 
@@ -76,5 +76,16 @@ K = { 2 + 3 , 3 + 4}
 |M ⊄ N| M ⊂ L | M = K|
 |K ⊄ N| K ⊂ L | K = M|
 
-Fijate que [ 2 + 3 = 5 ] y [ 3 + 4 = 7 ], es decír, M y K poseen los mismos elementos, N ⊄ L (N no es un subconjunto de L), porque el 12 ∉ L (12 no pertenece a L), si no entiendes, vuelve a leer **Importante**).
+Fijate que [ 2 + 3 = 5 ] y [ 3 + 4 = 7 ], es decír, M y K poseen los mismos elementos, N ⊄ L (N no es un subconjunto de L), porque el 12 ∉ L (12 no pertenece a L), si no entiendes, vuelve a leer **IMPORTANTE**).
+___
+
+
+
+
+
+___
+
+| [<------Volver al anterior apartado ](/Documentos/2.Representación/README.md)| [volver al indice](/README.md)|[Seguir con el siguiente apartado------>](/Documentos/4.Conjuntos-equivalentes/README.md)|
+|:-|:-:|-:|
+
 
