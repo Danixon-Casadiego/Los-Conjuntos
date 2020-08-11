@@ -6,21 +6,22 @@ Los conjuntos son un concepto primitivo, en el sentido de que no es posible defi
 
 Pero, ¿Qué se quiere decír, cuando se dice que un conjunto es un concepto primitivo?
 
-plantea lo siguiente, no nos interesa definirlo y no podemos definirlo en términos mas elementales, simplemente existen y creamos las leyes (axiomas) que cumplen ellos, para darte una analogía; cuando tu juegas un juego, supongamos el ajedrez, tu sabes como se mueve el peón para poder jugar, pero tu no necesitas definir o saber qué es un peón, solo necesitas saber como se mueve (el axioma del peón).
+Plantea lo siguiente, no nos interesa definirlo y no podemos definirlo en términos mas elementales, simplemente existen y creamos las leyes (axiomas) que cumplen ellos, para darte una analogía; cuando tu juegas un juego, supongamos el ajedrez, tu sabes como se mueve el peón para poder jugar, pero tu no necesitas definir o saber qué es un peón, solo necesitas saber como se mueve (el axioma del peón).
 
-la matemática se escribe en un lenguaje lógico, esto se hace para evitar las ambigüedades generadas por nuestro lenguaje convencional (el que usamos para comunicarnos), lo digo porque si deseas introducirte más de lleno y no quedarte con la idea intuitiva planteada, necesitas tener claro algunos conocimientos de lógica.
+La matemática se escribe en un lenguaje lógico, esto se hace para evitar las ambigüedades generadas por nuestro lenguaje convencional (el que usamos para comunicarnos), lo digo porque si deseas introducirte más de lleno y no quedarte con la idea intuitiva planteada, necesitas tener claro algunos conocimientos de lógica.
 
 te dejare un link a una serie de video, que habla de los axiomas de la Teoria de Conjuntos: 
 
 link: [Entender la matematica](https://www.youtube.com/watch?v=gjYptyGSf5A&list=PLR87U5jR5X6TzS2emgKWZmeV3MX1JtfVP&index=1+)
 
-Es opcional, ya que con los conocimientos que tenemos podemos seguir avanzando y plateo esto, porque en el siguiente apartado hablaremos de conjuntos que dada la definición intuitiva planteada en este archivo, no deberían de llamarse conjunto, pero aunque parescan locos esta definidos por los axiomas de la teoria de conjuntos.
+Es opcional, ya que con los conocimientos que tenemos podemos seguir avanzando y plateo esto, porque en el siguiente apartado hablaremos de conjuntos que dada la definición intuitiva planteada en este archivo, no deberían de llamarse conjuntos, pero aunque parezcan locos, están definidos por los axiomas de la Teoría de Conjuntos.
 
-para culminar, voy a citar una frace de un famoso matemático del siglo XX: 
+Para culminar, voy a citar una frace de un famoso matemático del siglo XX: 
 
 > "las matemáticas pueden definirse como el tema en el que nunca sabemos de qué estamos hablando, ni si lo que estamos diciendo es cierto".
->> Bertrand Russell
+
+>Bertrand Russell
 ___
 
-| [<------Volver al anterior apartado ](/Documentos/4.Conjuntos-equivalentes/README.md)| [volver al indice](/README.md)|[Seguir con el siguiente apartado------>](/Documentos/6.Conjuntos-expeciales/README.md)|
+| [<------Volver al anterior apartado ](/Documentos/4.Conjuntos-equivalentes/README.md)| [volver al indice](/README.md)|[Seguir con el siguiente apartado------>](/Documentos/6.Conjuntos-especiales/README.md)|
 |:-|:-:|-:|
