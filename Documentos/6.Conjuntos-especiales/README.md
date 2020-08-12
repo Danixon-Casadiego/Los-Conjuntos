@@ -1,10 +1,10 @@
-<div style="background:#333"> 
+
 # Conjuntos especiales 
 Ya hemos visto y creado varios conjuntos dada la definición intuitiva, pero a continuación te presentaré dos conjuntos que no cumplen con esa definición.
 
 ____
 
-<h2 style="display:flex;justify-content:center; ">El conjunto vacio </h2>
+## El conjunto vacio 
 
 Vamos a crear un conjunto, con la siguiente propiedad característica: 
 
@@ -17,7 +17,7 @@ Vamos a crear un conjunto, con la siguiente propiedad característica:
 
 ___
 
-<h2 style="display:flex;justify-content:center; "> Conjuntos unitarios </h2>
+## Conjuntos unitarios 
 
 Vamos a crear otro conjunto, con la siguiente propiedad característica:
 
@@ -37,4 +37,24 @@ Como vemos creamos el conjunto G, pero G no es igual a D [ ¬( G = D )].
 
 >Nota : ( ¬ ) es un símbolo logico, y significa la negación, en este caso lo que esta en parentesis, en otros palabras esta negando la igualdad. 
 ___
-<h1 style="color:red">casadiego
+ 
+ # Símbolos matemáticos
+
+ Ya hemo visto varios simbolos, y ya es hora que introduzcamos nuevos símbolos de los cuales algunos son heredados de la lógica, a continuación se presentaran dos simbolos y su significado:
+
+ - ∀ 
+    -
+   - Nombre: cuantificador universal
+   - Se lee:  "*Para todo*", "*Para cualquier*"; "*Para cada*"
+   - Descripción:  antepuesto a una variable para decir que "para todo" elemento de un cierto conjunto. Esto se utiliza para decir que todos ellos cumple una propiedad, regla o axioma, lo antes dicho se simboliza asi <abbr title="para todo elemento x que  pertenece al conjunto B "> [ **∀ x ∈ B** ] </abbr> 
+ 
+ -  ∃
+    -
+    - Nombre: cuantificador existencial
+    - Se lee: "*existe por lo menos un o unos*"
+    - Descripción: antepuesto a una variable para decir que "existe" un o unos elementos de un cierto conjunto, para decir que ese elemento que existe cumple una propiedad, regla o axioma, lo antes dicho se símboliza asi <abbr title="existe un/os elemento/s x que pertenece al conjunto B"> [ **∃ x ∈ B** ] </abbr> 
+___
+para finalizar, ahora voy a decir como se lee cada simbolo solamente cuando lo introduzca para simbolos ya mencionas solo pasa el curso sobre el simbolo y sale su traducción al lenguaje convencional, en el siguiente apartado empezamos con las operaciones de conjuntos. 
+
+| [<------Volver al anterior apartado ](/Documentos/5.Ampliación/README.md)| [volver al indice](/README.md)|[Seguir con el siguiente apartado------>](/Documentos/7.operaciones/README.md)|
+|:-|:-:|-:|

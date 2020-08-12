@@ -19,7 +19,7 @@ la forma *Entre llaves* se hace de la siguiente manera :
 5. Se cierra la llave.
 
 ![](/imagenes/imagen6.jpg)
->NOTA: lo de **e** sub **n** se lee **elemento** 1 ,**elemento** 2, ..., **elemento** n ó **elemento** n-ésimo, esto se hace asi para generalizar, ya que, cada conjunto varia en cantidad de elementos
+>NOTA: lo de **e**<sub>**n**</sub> se lee **elemento** n ó **elemento** n-ésimo, esto se hace asi para generalizar, ya que, cada conjunto varia en cantidad de elementos
 ___
 
 ## **Variables**  

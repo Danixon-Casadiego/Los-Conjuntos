@@ -10,11 +10,11 @@ Plantea lo siguiente, no nos interesa definirlo y no podemos definirlo en térmi
 
 La matemática se escribe en un lenguaje lógico, esto se hace para evitar las ambigüedades generadas por nuestro lenguaje convencional (el que usamos para comunicarnos), lo digo porque si deseas introducirte más de lleno y no quedarte con la idea intuitiva planteada, necesitas tener claro algunos conocimientos de lógica.
 
-te dejare un link a una serie de video, que habla de los axiomas de la Teoria de Conjuntos: 
+Te dejare un link a una serie de videos, que hablan de los axiomas de la Teoria de Conjuntos: 
 
-link: [Entender la matematica](https://www.youtube.com/watch?v=gjYptyGSf5A&list=PLR87U5jR5X6TzS2emgKWZmeV3MX1JtfVP&index=1+)
+Link: [Entender la matematica](https://www.youtube.com/watch?v=gjYptyGSf5A&list=PLR87U5jR5X6TzS2emgKWZmeV3MX1JtfVP&index=1+)
 
-Es opcional, ya que con los conocimientos que tenemos podemos seguir avanzando y plateo esto, porque en el siguiente apartado hablaremos de conjuntos que dada la definición intuitiva planteada en este archivo, no deberían de llamarse conjuntos, pero aunque parezcan locos, están definidos por los axiomas de la Teoría de Conjuntos.
+Es opcional, ya que con los conocimientos que tenemos podemos seguir avanzando y planteo esto, porque en el siguiente apartado hablaremos de conjuntos que dada la definición intuitiva planteada en este archivo, no deberían de llamarse conjuntos, pero aunque parezcan locos, están definidos por los axiomas de la Teoría de Conjuntos.
 
 Para culminar, voy a citar una frace de un famoso matemático del siglo XX: 
 
