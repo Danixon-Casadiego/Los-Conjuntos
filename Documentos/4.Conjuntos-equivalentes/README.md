@@ -1,4 +1,4 @@
-# Conjuntos Equivalentes
+,# Conjuntos Equivalentes
 ![](/imagenes/imagen11.jpg)
 
 Tenemos dos conjuntos **V** y **F** que son distintos, pero tienen la misma cantidad de elementos (5). A los conjuntos que tienen la misma cantidad de elementos se les llama *Conjuntos Equivalentes*, entonces **V** y **F** son conjuntos equivalentes.
@@ -30,7 +30,7 @@ Me dan el conjunto B y me dicen: crea un subcojunto que tenga las vocales del co
 
 ![](/imagenes/imagen15.jpg)
 
-> Nota: en pocas palabras, un subconjunto complementario son los elementos que no pertenecen a D y sí pertencen a B, en simbólogia, <abbr title=" x no pertenece a D y x pertenece a B">[( x ∉ D ) ∧ ( x ∈ B ) ]</abbr>, esto define al conjunto de color morado.
+> Nota: en pocas palabras, un subconjunto complementario son los elementos que no pertenecen a D y sí pertencen a B, en simbólogia, [[ ( x ∉ D ) ∧ ( x ∈ B ) ]](# "x no pertenece a D y x pertenece a B"), esto define al conjunto de color morado.
 ___
 
 Hasta aqui hemos adquirido una idea de las característica de los conjunto, en el siguiente apartado, se plantea las incoherencias de definir un conjunto como lo hicismos, y como solucionarla, para asi establecer una extrúctura axiomática que dara origén a la **Teoria de Conjuntos** actual   

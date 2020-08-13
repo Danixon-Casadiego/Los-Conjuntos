@@ -79,10 +79,6 @@ K = { 2 + 3 , 3 + 4}
 Fijate que [ 2 + 3 = 5 ] y [ 3 + 4 = 7 ], es decír, M y K poseen los mismos elementos, N ⊄ L (N no es un subconjunto de L), porque el 12 ∉ L (12 no pertenece a L), si no entiendes, vuelve a leer **IMPORTANTE**).
 ___
 
-
-
-
-
 ___
 
 | [<------Volver al anterior apartado ](/Documentos/2.Representación/README.md)| [volver al indice](/README.md)|[Seguir con el siguiente apartado------>](/Documentos/4.Conjuntos-equivalentes/README.md)|

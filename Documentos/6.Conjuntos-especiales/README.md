@@ -46,15 +46,16 @@ ___
     -
    - Nombre: cuantificador universal
    - Se lee:  "*Para todo*", "*Para cualquier*"; "*Para cada*"
-   - Descripción:  antepuesto a una variable para decir que "para todo" elemento de un cierto conjunto. Esto se utiliza para decir que todos ellos cumple una propiedad, regla o axioma, lo antes dicho se simboliza asi <abbr title="para todo elemento x que  pertenece al conjunto B "> [ **∀ x ∈ B** ] </abbr> 
+   - Descripción:  antepuesto a una variable para decir que "para todo" elemento de un cierto conjunto. Esto se utiliza para decir que todos ellos cumple una propiedad, regla o axioma, lo antes dicho se simboliza asi  [[ **∀ x ∈ B** ]](# "para todo elemento x que  pertenece al conjunto B ") 
  
  -  ∃
     -
     - Nombre: cuantificador existencial
     - Se lee: "*existe por lo menos un o unos*"
-    - Descripción: antepuesto a una variable para decir que "existe" un o unos elementos de un cierto conjunto, para decir que ese elemento que existe cumple una propiedad, regla o axioma, lo antes dicho se símboliza asi <abbr title="existe un/os elemento/s x que pertenece al conjunto B"> [ **∃ x ∈ B** ] </abbr> 
+    - Descripción: antepuesto a una variable para decir que "existe" un o unos elementos de un cierto conjunto, para decir que ese elemento que existe cumple una propiedad, regla o axioma, lo antes dicho se símboliza asi  [[ **∃ x ∈ B** ]](# "existe un/os elemento/s x que pertenece al conjunto B")
 ___
-para finalizar, ahora voy a decir como se lee cada simbolo solamente cuando lo introduzca para simbolos ya mencionas solo pasa el curso sobre el simbolo y sale su traducción al lenguaje convencional, en el siguiente apartado empezamos con las operaciones de conjuntos. 
+para finalizar, ahora voy a decir como se lee cada simbolo solamente cuando lo introduzca. Para simbolos ya mencionas solo pasa el curso sobre el simbolo y sale su traducción al lenguaje convencional (como por ejemplo: [[ **∃ x ∈ B** ]](# "existe un/os elemento/s x que pertenece al conjunto B")), en el siguiente apartado empezamos con las operaciones de conjuntos. 
+___
 
 | [<------Volver al anterior apartado ](/Documentos/5.Ampliación/README.md)| [volver al indice](/README.md)|[Seguir con el siguiente apartado------>](/Documentos/7.operaciones/README.md)|
 |:-|:-:|-:|
