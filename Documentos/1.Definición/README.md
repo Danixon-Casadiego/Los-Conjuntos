@@ -74,6 +74,11 @@ ___
 
 > Un **conjunto** es una **reunión** de **elementos** que tienen una **propiedad caracteristica** 
 ___
+para finalizar cito una frase de Cicerón:
+
+>“No hay rama de la matemática, por lo abstracta que sea , que no pueda aplicarse algún día a los fenómenos del mundo real” 
+___
+
 
 | [<------Volver al indice ](/README.md)|--------------------------------|[Seguir con el siguiente apartado------>](/Documentos/2.Representación/README.md)|
 |:-|:-:|-:|

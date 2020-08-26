@@ -11,7 +11,7 @@ Vamos a crear un conjunto, con la siguiente propiedad característica:
 "Ser animales del tamaño del planeta tierra"
 
 
- Como no existe ningún elemento que cumpla esa propiedad característica, este conjunto no posee elementos y es único, por ende no existe otro conjunto que poseea esta misma propiedad, por eso le llámamos "El conjunto vacio" y se denota con la letra griega fi [ ϕ ]
+ Como no existe ningún elemento que cumpla esa propiedad característica, este conjunto no posee elementos y es único, por ende no existe otro conjunto que poseea esta misma propiedad (no tener elementos), por eso le llámamos "El conjunto vacio" y se denota con la letra griega fi [ ϕ ]
 
 ![imagen](/imagenes/imagen16.jpg)
 
@@ -25,7 +25,7 @@ Vamos a crear otro conjunto, con la siguiente propiedad característica:
 
 ![](/imagenes/imagen17.jpg)
 
-El único nombre de mes que posee esa característica es Febrero, por lo tanto este elemento solo tienen un elemento, a difernencia de el conjunto vacio, no es único existen una enorme cantidad de conjuntos unitarios, por ejemplo: 
+El único nombre de mes que posee esa característica es Febrero, por lo tanto este conjunto solo tienen un elemento, a difernencia de el conjunto vacio, no es único existen una enorme cantidad de conjuntos unitarios, por ejemplo: 
 
 "Ser la primera letra del alfabeto"
 
@@ -57,5 +57,5 @@ ___
 para finalizar, ahora voy a decir como se lee cada simbolo solamente cuando lo introduzca. Para simbolos ya mencionas solo pasa el curso sobre el simbolo y sale su traducción al lenguaje convencional (como por ejemplo: [[ **∃ x ∈ B** ]](# "existe un/os elemento/s x que pertenece al conjunto B")), en el siguiente apartado empezamos con las operaciones de conjuntos. 
 ___
 
-| [<------Volver al anterior apartado ](/Documentos/5.Ampliación/README.md)| [volver al indice](/README.md)|[Seguir con el siguiente apartado------>](/Documentos/7.operaciones/README.md)|
+| [<------Volver al anterior apartado ](/Documentos/4.Conjuntos-equivalentes/README.md)| [volver al indice](/README.md)|[Seguir con el siguiente apartado------>](/Documentos/6.operaciones/README.md)|
 |:-|:-:|-:|

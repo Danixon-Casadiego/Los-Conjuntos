@@ -58,8 +58,12 @@ Fijate, como una variable no es un valor fijo, puede ser cualquier elemento y la
 La x puede respresentar todos los elemetos a la vez y se lee: "el conjunto L de los elementos x tal que x sea igual a las vocales".
 
 > Nota: la definición de variable: "Es la expresión simbólica" la [ x ] "representativa de un elemento no especificado" [ a, e, i, o, u ] "comprendido en un conjunto" [ **L = {  }** ], es decir, que esta dentro de un conjunto.
+___
+para concluir te dejo esto: 
 
+>En matemáticas no se deben despreciar ni los errores más diminutos.
 
+>Isaac Newton.
 ___
 | [<------Volver al anterior apartado ](/Documentos/1.Definición/README.md)| [volver al indice](/README.md)|[Seguir con el siguiente apartado------>](/Documentos/3.Relación/README.md)|
 |:-|:-:|-:|
