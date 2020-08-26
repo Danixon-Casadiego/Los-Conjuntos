@@ -10,8 +10,8 @@
 
 - [Conjuntos equivalentes](/Documentos/4.Conjuntos-equivalentes/README.md)
 
-- [Conjuntos especiales](/Documentos/6.Conjuntos-especiales/README.md)
+- [Conjuntos especiales](/Documentos/5.Conjuntos-especiales/README.md)
 
-- [Operaciones de conjuntos](/Documentos/7.operaciones/README.md)
+- [Operaciones de conjuntos](/Documentos/6.operaciones/README.md)
 
 - [Ampliación de la teoria de conjunto](/Documentos/Ampliación/README.md)
